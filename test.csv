@@ -1,0 +1,16 @@
+TaskID,Title,Description,Status,Assignee,Priority,DueDate
+1,Setup Repository,Initialize GitHub repo with CI/CD pipeline,Completed,Alice,High,2025-08-30
+2,UI Mockups,Design dashboard and chatbot UI,In Progress,Bob,Medium,2025-09-04
+3,Data Cleaning,Preprocess tickets and backlog data,Pending,Charlie,High,2025-09-05
+4,LLM Integration,Connect LangChain with GPT API,In Progress,Alice,High,2025-09-06
+5,Risk Detection,Implement risk scoring algorithm,Pending,Diana,High,2025-09-07
+6,KPI Dashboard,Generate velocity and progress charts,Pending,Bob,Medium,2025-09-07
+7,Chatbot Core,Build conversational assistant logic,In Progress,Charlie,High,2025-09-08
+8,Testing Suite,Write unit and integration tests,Pending,Diana,Medium,2025-09-09
+9,Project Report,Generate executive summary PDF,Pending,Alice,High,2025-09-10
+10,User Feedback,Collect feedback from early testers,Pending,Bob,Low,2025-09-11
+11,Auth System,Implement login & API key management,Completed,Charlie,High,2025-08-28
+12,Power BI Setup,Embed Power BI for KPI visualizations,In Progress,Diana,Medium,2025-09-06
+13,Documentation,Write user and developer guides,Pending,Alice,Low,2025-09-12
+14,Deployment,Deploy app to cloud (Heroku/AWS),Pending,Bob,High,2025-09-13
+15,Post-Mortem,Write lessons learned report,Pending,Diana,Low,2025-09-15
