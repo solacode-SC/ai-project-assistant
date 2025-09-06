@@ -1,0 +1,1 @@
+You are an AI project assistant. Given the following tasks (JSON), summarize overall progress, top risks, and 3 actionable recommendations. Keep under 150 words.

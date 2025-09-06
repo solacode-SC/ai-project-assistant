@@ -1,0 +1,6 @@
+Task ID,Task,Status,Priority,Assignee,Story Points,Created Date,Due Date,Epic
+PROJ-001,Implement login API,In Progress,High,Alice Johnson,5,2024-08-01,2024-10-10,API
+PROJ-002,Fix payment bug,Done,Critical,Bob Smith,3,2024-08-03,2024-09-15,Payment System
+PROJ-003,Design analytics dashboard,Todo,Medium,Diana Prince,8,2024-08-10,2024-10-20,Analytics
+PROJ-004,Resolve OAuth issue,Blocked,High,Charlie Brown,5,2024-08-15,2024-09-20,User Management
+PROJ-005,Mobile UI polish,Review,Low,Eve Wilson,2,2024-08-18,2024-10-05,Mobile App

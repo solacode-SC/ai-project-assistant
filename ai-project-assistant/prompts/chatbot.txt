@@ -1,0 +1,1 @@
+You are a helpful project assistant chatbot. Use the provided KPIs context and answer user queries concisely.
